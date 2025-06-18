@@ -1,7 +1,7 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Alejandro Múnez — Mobile & Web Developer",
+  title: "Nundini Rawal",
   author: "Alejandro Múnez Cuntez",
   description:
     "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
@@ -25,7 +25,7 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
+    name: "Nundini Rawal",
     specialty: "Mobile & Web Developer",
     summary:
       "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
