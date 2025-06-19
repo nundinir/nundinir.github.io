@@ -84,31 +84,31 @@ export const SITE_CONTENT: SiteContent = {
       summary: "How does user value of exoskeleton assistance change with assistance attributes (e.g., peak torque)?",
       // linkPreview: "/",
       linkSource: "https://github.com/neurobionics/Exoboot-Controller-VAS",
-      image: "/spotifu.png",
+      image: "/S101_vas_landscape.png",
     },
     {
       name: "What does User Experience of Exoskeleton Assistance Encode?",
       summary: "How does user perception of exoskeleton assistance relate to physical fatigue during use. ",
       // linkPreview: "/",
       // linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
+      image: "/MV_diag.png",
     },
     {
       name: "Preferred Ankle Stiffness of a Variable-Stiffness Prosthesis Across 5 Activities",
       summary: "What ankle stiffness do amputees prefer for various activities?",
       linkPreview: "/",
       // linkSource: "https://github.com/immois/astro-zen",
-      image: "/clone-ig.png",
+      image: "/vspa_img.png",
     },
   ],
   about: {
     description: `
     Hi there! I'm a PhD candidate in Mechanical Engineering at the University of Michigan,
     where I study how to develop exoskeletons that are both biomechanically effective and meaningful to wear.
-    My work combines human-subject studies, control development, and behavioral metrics to quantify
+    My work combines human-subject studies, controls development, and behavioral metrics to quantify
     and integrate user experience directly into exoskeleton design.
     `,
-    image: "/alejandro-big.jpg",
+    image: "/headshot_1.png",
   },
 };
 
