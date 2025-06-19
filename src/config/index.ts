@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description: `Howdy! I'm a mechanical engineer and scientist at the University of Michigan.
     I specialize in biomechanics, human-robot interaction, exoskeleton control, and experimental design.`,
   lang: "en",
-  siteLogo: "/headshot_4.png",
+  siteLogo: "/cutesy_headshot_2.png",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
