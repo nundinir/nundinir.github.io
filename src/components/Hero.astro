@@ -20,8 +20,28 @@ const { name, specialty, summary, email } = Astro.props;
     {summary}
   </p>
 
-  <a
+  <!-- <a
     class="inline-block rounded-full bg-primary px-8 py-5 text-sm leading-5 font-medium text-[#fff]"
-    href={`mailto:${email}`}>Get in Touch</a
-  >
+    href={`mailto:${email}`}>Email</a
+  > -->
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+    <div>
+      <h2 class="text-xl font-bold text-white mb-2">Interests</h2>
+      <ul class="list-disc list-inside text-neutral">
+        <li>Biomechanics</li>
+        <li>Simulation</li>
+        <li>Controls</li>
+        <li>Design</li>
+      </ul>
+    </div>
+    <div>
+      <h2 class="text-xl font-bold text-white mb-2">Skill-set</h2>
+      <ul class="list-disc list-inside text-neutral">
+        <li>Data Analysis</li>
+        <li>Prototyping</li>
+        <li>Experimental Design</li>
+        <li>Biomechanics</li>
+      </ul>
+    </div>
+  </div>
 </section>
