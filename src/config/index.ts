@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description: `Howdy! I'm a mechanical engineer and scientist at the University of Michigan.
     I specialize in biomechanics, human-robot interaction, exoskeleton control, and experimental design.`,
   lang: "en",
-  siteLogo: "/nundinir-small.jpg",
+  siteLogo: "/headshot_4.png",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -18,7 +18,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "ORCID", href: "https://orcid.org/0009-0002-0591-8542" },
     { text: "Google Scholar", href: "https://scholar.google.com/citations?user=-YWyaAQAAAAJ&hl=en&oi=ao" },
   ],
-  socialImage: "/zen-og.png",
+  socialImage: "/cutesy_headshot_1.png",
   canonicalURL: "https://astro-zen.vercel.app",
 };
 
@@ -98,7 +98,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "What ankle stiffness do amputees prefer for various activities?",
       linkPreview: "/",
       // linkSource: "https://github.com/immois/astro-zen",
-      image: "/vspa_img.png",
+      image: "/vspa_biomech.png",
     },
   ],
   about: {
@@ -108,7 +108,7 @@ export const SITE_CONTENT: SiteContent = {
     My work combines human-subject studies, controls development, and behavioral metrics to quantify
     and integrate user experience directly into exoskeleton design.
     `,
-    image: "/headshot_1.png",
+    image: "/headshot_3.png",
   },
 };
 
