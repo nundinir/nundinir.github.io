@@ -82,7 +82,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Characterizing Value Landscapes for Exoskeleton Assistance",
       summary: "How does user value of exoskeleton assistance change with assistance attributes (e.g., peak torque)?",
-      // linkPreview: "/",
+      linkPreview: "/value_landscape",
       linkSource: "https://github.com/neurobionics/Exoboot-Controller-VAS",
       image: "/S101_vas_landscape.png",
     },
@@ -96,7 +96,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Preferred Ankle Stiffness of a Variable-Stiffness Prosthesis Across 5 Activities",
       summary: "What ankle stiffness do amputees prefer for various activities?",
-      linkPreview: "/",
+      // linkPreview: "/",
       // linkSource: "https://github.com/immois/astro-zen",
       image: "/vspa_biomech.png",
     },
